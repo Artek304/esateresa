@@ -28,7 +28,7 @@ p.czas {
 
 main {
     position: relative;
-    background-image: url(http://206.168.212.55:27016/dowod_files/dowodnowybg.svg);
+    background-image: ../dowod_files/card.png.png
     margin: 16px 20px 0px 20px;
     height: 385px;
     display: flex;
